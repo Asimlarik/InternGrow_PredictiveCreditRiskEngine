@@ -27,8 +27,3 @@ python predictive_credit_risk_engine.py
 | Random Forest | 0.462 | 0.840 |
 
 SMOTE meaningfully improved recall on the minority (default) class compared to training on the raw imbalanced data — critical for a credit risk model, where missing an actual default is costlier than a false alarm.
-
-## 🎥 Submission Checklist (InternGrow)
-- [ ] Push to GitHub as `InternGrow_PredictiveCreditRiskEngine`
-- [ ] Record project video, post on LinkedIn tagging @InternGrow, with GitHub link
-- [ ] Submit via the InternGrow submission form
